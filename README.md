@@ -18,18 +18,18 @@ I'm a MSCS student at Northeastern University, Arlington Campus with 2 years of 
 
 ## :trophy: My Github Stats:
 
-<details open>
- <summary><b>:computer: Github Stats</b></summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gotham" alt="my github stats" width="420"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0D1117&stroke=0000" alt="my commit status" width="420"/> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=E-Virgil&show_icons=true&theme=gotham" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img align="center" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=E-Virgil&theme=dark&hide_border=true&background=0D1117&stroke=0000" />
+  </a>
 </p>
-</details>
 
 <details open>
  <summary><b>:fire: Most Used Languages</b></summary>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=gotham&layout=compact" alt="most used languages"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Virgil&theme=gotham&layout=compact" alt="most used languages"></p>
 </details>
 
 <hr>
