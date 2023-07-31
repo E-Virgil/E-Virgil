@@ -1,41 +1,28 @@
-# Hello! My name is Ethan Virgil
+<div align="center">
 
+# Hi there, I'm Ethan Virgil! :wave:
 
-I'm a MSCS student at Northeastern University, Arlington Campus with 2 years of experience, currently based in Washington, DC, :earth_africa:. I am eager to learn about new opportunities to apply my combined experience in policy analysis and computer science. I have experience with Java, Python, and C. 
+_MSCS Student at Northeastern University, Arlington Campus | 2 Years of Experience | Washington, DC_
 
-## :mailbox: Find me on:
+**I am passionate about the intersection of policy analysis and computer science. I'm always eager to explore new opportunities and challenges. Let's connect!**
+
+</div>
+
+---
+
+## :mailbox: Connect with Me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-virgil/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/E-Virgil)
 
+---
 
-## :computer: Languages and Tools:
+## :computer: Languages and Tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 
+---
 
-## :trophy: My Github Stats:
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=E-Virgil&show_icons=true&theme=gotham" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img align="center" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=E-Virgil&theme=dark&hide_border=true&background=0D1117&stroke=0000" />
-  </a>
-</p>
-
-<details open>
- <summary><b>:fire: Most Used Languages</b></summary>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Virgil&theme=gotham&layout=compact" alt="most used languages"></p>
-</details>
-
-<hr>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<hr>
-
-Feel free to reach out if you're looking for a developer, have a question, or just want to connect.
+Feel free to reach out if you're looking for a developer, have a question, or just want to connect. :email:
