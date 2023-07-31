@@ -1,7 +1,5 @@
 # Hello! My name is Ethan Virgil
 
-![Banner](https://avatars.githubusercontent.com/u/101530219?v=4)
-
 
 I'm a MSCS student at Northeastern University, Arlington Campus with 2 years of experience, currently based in Washington, DC, :earth_africa:. I am eager to learn about new opportunities to apply my combined experience in policy analysis and computer science.
 
