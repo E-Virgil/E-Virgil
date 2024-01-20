@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ethan Virgil! :wave:
 
-_MSCS Student at Northeastern University, Arlington Campus | 2 Years of Experience | Washington, DC_
+_MSCS Student at Northeastern University, Arlington Campus | 3 Years of Experience | Washington, DC_
 
 **I am passionate about the intersection of policy analysis and computer science. I'm always eager to explore new opportunities and challenges. Let's connect!**
 
