@@ -4,6 +4,8 @@
 
 _MSCS Student at Northeastern University, Arlington Campus | 3 Years of Experience | Washington, DC_
 
+This summer, I will be interning at SAP National Security Solutions (SAP NS2) in Virginia.
+
 **I'm always eager to explore new opportunities and challenges. Let's connect!**
 
 </div>
