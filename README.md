@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ethan Virgil! :wave:
 
-_MSCS Student at Northeastern University, Arlington Campus | 3 Years of Experience | Washington, DC_
+_Automation and QA Intern @ SAP NS2 | MSCS Student at Northeastern University, Arlington Campus | 3 Years of Experience | Washington, DC_
 
 This summer, I will be interning at SAP National Security Solutions (SAP NS2) in Virginia.
 
