@@ -4,7 +4,7 @@
 
 _Automation and QA Intern @ SAP NS2 | MSCS Student at Northeastern University, Arlington Campus | 3 Years of Experience | Washington, DC_
 
-This summer, I will be interning at SAP National Security Solutions (SAP NS2) in Virginia.
+This summer, I am interning at SAP National Security Solutions (SAP NS2) in Virginia.
 
 **I'm always eager to explore new opportunities and challenges. Let's connect!**
 
