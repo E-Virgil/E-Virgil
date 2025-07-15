@@ -27,4 +27,4 @@ I am currently working at SAP National Security Solutions (SAP NS2) in Virginia.
 
 ---
 
-Feel free to reach out if you're looking for a developer, have a question, or just want to connect. [📧](mailto:virgil.e@northeastern.edu)
+Feel free to reach out if you're looking for a developer, have a question, or just want to connect. [📧](mailto:ethanvirgil2@gmail.com)
